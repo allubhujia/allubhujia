@@ -150,7 +150,11 @@ graph LR
 ```
 
 ---
+### 🐍 Watch my contributions get eaten
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/allubhujia/allubhujia/output/snake.svg" alt="Snake animation" />
+</p>
 ## 📊 GitHub Stats
 
 <p align="center">
