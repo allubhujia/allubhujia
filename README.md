@@ -158,16 +158,16 @@ graph LR
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=allubhujia&show_icons=true&count_private=true&hide_border=true&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allubhujia&layout=compact&hide_border=true&title_color=00c6ff&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=allubhujia&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allubhujia&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=allubhujia&hide_border=true&background=0D1117&stroke=00c6ff&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff&sideLabels=c9d1d9&dates=8b949e" />
+  <img src="https://streak-stats.demolab.com?user=allubhujia&hide_border=true&background=0D1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=allubhujia&bg_color=0d1117&color=00c6ff&line=00c6ff&point=ffffff&area=true&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=allubhujia&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
