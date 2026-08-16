@@ -163,7 +163,7 @@ graph LR
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=allubhujia&hide_border=true&background=0D1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
+  <img src="https://streak-stats.demolab.com?user=allubhujia&hide_border=true&background=0D1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff" />
 </p>
 
 <p align="center">
